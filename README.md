@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zulqarnain sajol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulqarnain sajol" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jn_sajol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jn_sajol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zulqarnain-sajol-821959198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulqarnain" height="30" width="40" /></a>
+<a href="https://leetcode.com/Jn_Sajol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jn_sajol" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
