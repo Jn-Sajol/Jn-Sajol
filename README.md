@@ -2,11 +2,11 @@
 <h3 align="center">i am a quick learner. i am learning everyday new things. working with MERN stack Technology at Swap.com 😊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Deep Web Technology **
 
-- 💬 Ask me about **React, Node, Laravel, NextJs**
+- 💬 Ask me about ✌ **React, Node, Laravel, NextJs**
 
-- 📫 How to reach me **julkar10121@gmail.com**
+- 📫 How to reach me➡ **julkar10121@gmail.com**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
