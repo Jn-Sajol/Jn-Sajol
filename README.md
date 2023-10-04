@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julkar Nayeen Sajol</h1>
 <h3 align="center">i am a quick learner. i am learning everyday new things. working with MERN stack Technology at Swap.com 😊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br/>
 - 🌱 I’m currently learning **Deep Web Technology **
 
 - 💬 Ask me about ✌ **React, Node, Laravel, NextJs**
