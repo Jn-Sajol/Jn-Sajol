@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zulqarnain Sajol</h1>
-<h3 align="center">i am a quick learner. i am learning everyday new things. working with MERN stack Technology at Swap.com 😊</h3>
+<h3 align="center">i am a quick learner. i am learning everyday new things. working with Web Core Technology 😊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br/>
 - 🌱 I’m currently learning **Deep Web Technology **
 
-- 💬 Ask me about ✌ **React, Node, Laravel, NextJs**
+- 💬 Ask me about ✌ **React, Node, NextJs**
 
 - 📫 How to reach me➡ **julkar10121@gmail.com**
 <br/>
