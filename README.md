@@ -4,7 +4,7 @@
 <p align="center">
 🚀 Dedicated to mastering Web Core Technologies to build scalable and high-performance applications.
 </p>
-
+<br/>
 
 <h3 align="center">👨‍💻 About Me</h3>
 
@@ -14,7 +14,7 @@
  📫 <strong>Contact:</strong> julkar10121@gmail.com
 </p>
 
-
+<br/>
 
 <h3 align="center">🔗 Connect With Me</h3>
 
@@ -30,14 +30,14 @@
   </a>
 </p>
 
-
+<br/>
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github" alt="Tech Stack" />
 </p>
 
-
+<br/>
 <p align="center">
 🎯 <strong>Striving for continuous growth and excellence in web development.</strong> 🚀  
 </p>
