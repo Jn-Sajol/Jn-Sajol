@@ -5,17 +5,16 @@
 🚀 Dedicated to mastering Web Core Technologies to build scalable and high-performance applications.
 </p>
 
----
 
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
- 🌱 Currently exploring <strong>Deep Web Technology</strong> <br/>
- 💬 Ask me about <strong>Node.js, Next.js, React.js</strong> <br/>
- 📫 Reach me at: <strong>julkar10121@gmail.com</strong>
+ 🌱 <strong>Currently Exploring:</strong> Deep Web Technology <br/>
+ 💬 <strong>Expertise:</strong> Node.js, Next.js, React.js <br/>
+ 📫 <strong>Contact:</strong> julkar10121@gmail.com
 </p>
 
----
+
 
 <h3 align="center">🔗 Connect With Me</h3>
 
@@ -31,7 +30,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">🛠 Tech Stack</h3>
 
@@ -39,7 +37,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github" alt="Tech Stack" />
 </p>
 
----
 
 <p align="center">
 🎯 <strong>Striving for continuous growth and excellence in web development.</strong> 🚀  
