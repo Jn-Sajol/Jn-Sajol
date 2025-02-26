@@ -7,14 +7,18 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently exploring **Deep Web Technology**  
-- 💬 Ask me about **Node.js, Next.js, React.js**  
-- 📫 Reach me at: **julkar10121@gmail.com**  
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+ 🌱 Currently exploring <strong>Deep Web Technology</strong> <br/>
+ 💬 Ask me about <strong>Node.js, Next.js, React.js</strong> <br/>
+ 📫 Reach me at: <strong>julkar10121@gmail.com</strong>
+</p>
 
 ---
 
-### 🔗 Connect With Me  
+<h3 align="center">🔗 Connect With Me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/zulqarnain-sajol-821959198/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -29,16 +33,14 @@
 
 ---
 
-### 🛠 Tech Stack  
+<h3 align="center">🛠 Tech Stack</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulqarnain-sajol&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+🎯 <strong>Striving for continuous growth and excellence in web development.</strong> 🚀  
 </p>
-
-🎯 *Striving for continuous growth and excellence in web development.* 🚀  
