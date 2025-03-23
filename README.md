@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zulqarnain Sajol</h1>
+<h1 align="center">Hi 👋, I'm Julkar Nayeen Sajol</h1>
 <h3 align="center">A Passionate Full-Stack Developer | Quick Learner | Problem Solver</h3>
 
 <p align="center">
